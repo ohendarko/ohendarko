@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning full stack software engineering with ALX Africa.
 - 💞️ I’m looking to collaborate on projects that intersect health and technology.
 - 📫 How to reach me: you can email me or reach me on any of my socials outlined in my profile
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: You have enough blood vessels to stretch around the earth at least 4 times.
 
 <!---
